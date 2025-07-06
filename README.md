@@ -92,18 +92,18 @@ O dataset `df` contém 470.990 instâncias com 14 colunas:
 
 ## Tratamento dos dados
 
-  Foram feitos alguns procedimentos até chegar ao DataFrame final. Alguns dos procedimentos feitos foram:
+Foram feitos alguns procedimentos até chegar ao DataFrame final. Alguns dos procedimentos feitos foram:
 - limpeza removendo linhas e colunas;
 - criação de novas colunas a partir de informações financeiras que estavam em uma determinada coluna;
 - deflacionar os valores a partir de um dos índices oficais de inflação;
 - transformação numérica de numéros para outra notação;
 
-  ## Estatísticas Descritivas
+## Estatísticas Descritivas
 
-  Nesta seção pode-se visualizar através de tabelas e gráficos estatísticas descritivas que fornecem um resumo das características numéricas, incluindo média, desvio padrão,
+ Nesta seção pode-se visualizar através de tabelas e gráficos estatísticas descritivas que fornecem um resumo das características numéricas, incluindo média, desvio padrão,
 mínimo, máximo e quartis.
 
-  Através dos gráficos são feitas algumas descobertas interessantes sobre os estados que mais gastam em valores brutos, como também os que mais investem em valores brutos.
+ Através dos gráficos são feitas algumas descobertas interessantes sobre os estados que mais gastam em valores brutos, como também os que mais investem em valores brutos.
 Descobrimos que os estados que mais investem levando em consideração a relação investimento/despesa total estão fora da lista dos dos que tem as maiores receitas.
 
 Pode-se perceber em meio a análise que determinados estados apresentam dificuldade para investir devido a relação depesa corrente/despesa total estar em patamares elevados.
