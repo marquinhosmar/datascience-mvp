@@ -1,4 +1,6 @@
-### Este trabalho faz parte do MVP Análise de Dados e Boas Práticas ###
+## Introdução
+
+Este trabalho faz parte do MVP Análise de Dados e Boas Práticas do curso de Ciências de Dados e Analytics da PUC-RIO.
 
   O objetivo do MPV é escolher um dataset preferencialmente em algum repositário de dados públicos, e a partir dele aplicar as técnicas vistos nas 
 disciplinas de:
